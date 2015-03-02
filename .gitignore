@@ -1,0 +1,13 @@
+*.sln*
+*.userprefs
+*.csproj*
+*.pidb
+*.unityproj
+.DS_Store
+Library
+Obj
+Temp
+*.apk
+*.ipa
+build/
+Log/
